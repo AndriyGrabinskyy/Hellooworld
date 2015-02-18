@@ -44,5 +44,6 @@ public class IteratorDemo {
          System.out.print(element + " ");
        }
        System.out.println();
+       System.out.println("TEST!");
     }
 }
